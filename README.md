@@ -69,12 +69,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/samohiani/samohiani/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samohiani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2&custom_title=Languages%F0%9F%AB%A1" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=samohiani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1&custom_title=Stats(locally)%F0%9F%91%80" height="150" alt="stats graph"  />
@@ -82,6 +76,10 @@
   <img src="https://github-profile-trophy.vercel.app?username=samohiani&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samohiani&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=CONTRIBUTION%20GRAPH%F0%9F%A4%B2%F0%9F%8F%BE" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/samohiani/samohiani/output/snake.svg" alt="Snake animation" />
 
 ###
 
