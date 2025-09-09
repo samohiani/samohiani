@@ -79,11 +79,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/samohiani/samohiani/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q1ZWpkZG92dmU1eG5nMnd5N2ViaXEzN3Z4Y3Vob25saHZodTJrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BPJmthQ3YRwD6QqcVD/giphy.gif"  />
+<img align="left" height="2500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q1ZWpkZG92dmU1eG5nMnd5N2ViaXEzN3Z4Y3Vob25saHZodTJrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BPJmthQ3YRwD6QqcVD/giphy.gif"  />
 
 ###
 
