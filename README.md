@@ -12,28 +12,6 @@
 
 ---
 
-<h3 align="center">💻 Selected Projects</h3>
-
-<h4 align="center"><a href="https://github.com/samohiani/document-approval-system">Calo · Document Approval API</a></h4>
-<p align="center">
-  Digital forms and multi-step approvals with role-based access and submission tracking.<br>
-  <sub>Node.js · Express · PostgreSQL · Sequelize · JWT</sub>
-</p>
-
-<h4 align="center"><a href="https://github.com/samohiani/simple-ecommerce">E-commerce API</a></h4>
-<p align="center">
-  Product filtering, authenticated shopping carts, and order management with input validation.<br>
-  <sub>TypeScript · Node.js · Express · MongoDB · Mongoose</sub>
-</p>
-
-<h4 align="center"><a href="https://github.com/samohiani/blog-api">Blog API</a></h4>
-<p align="center">
-  A TypeScript REST API for blog posts, with PostgreSQL persistence, logging, and error handling.<br>
-  <sub>TypeScript · Express · PostgreSQL · TypeORM</sub>
-</p>
-
----
-
 <h3 align="center">🛠️ Core Stack</h3>
 
 <p align="center">
@@ -79,6 +57,10 @@
 
 ---
 
+<p align="center">
+  <img width="420" alt="A celebratory toast" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q1ZWpkZG92dmU1eG5nMnd5N2ViaXEzN3Z4Y3Vob25saHZodTJrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BPJmthQ3YRwD6QqcVD/giphy.gif"  />
+</p>
+
 <h3 align="center">🎧 On Repeat</h3>
 
 <p align="center">
@@ -97,7 +79,4 @@
   <a href="mailto:ohianisammy2005@gmail.com"><img src="https://img.shields.io/badge/Email-88c0d0?style=for-the-badge&logo=gmail&logoColor=2e3440" height="30" alt="Send me an email"></a>
 </p>
 
-<p align="center">
-  <img width="320" alt="A celebratory toast" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q1ZWpkZG92dmU1eG5nMnd5N2ViaXEzN3Z4Y3Vob25saHZodTJrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BPJmthQ3YRwD6QqcVD/giphy.gif"  />
-</p>
 <p align="center"><i>Thanks for stopping by.</i></p>
