@@ -92,6 +92,17 @@
   <img src="https://github-profile-trophy-unserori.vercel.app?username=samohiani&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" width="720" alt="GitHub trophies"  />
 </p>
 
+<h4 align="center">🐍 Contributions in Motion</h4>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contribution-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/contribution-snake.svg">
+    <img src="assets/contribution-snake.svg" width="720" alt="An animated gold snake eating my GitHub contribution squares">
+  </picture>
+</p>
+<p align="center"><sub>A year of building, one square at a time.</sub></p>
+
 ---
 
 <h3 align="center">🎧 On Repeat</h3>
