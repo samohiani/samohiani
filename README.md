@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
-  <img src="assets/celebratory-toast.gif" width="480" height="270" alt="A celebratory toast" />
+  <img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" width="480" height="270" alt="A celebratory toast" />
 </p>
 
 <h3 align="center">🎧 On Repeat</h3>
