@@ -78,14 +78,14 @@
 ---
 
 <p align="center">
-  <img src="assets/celebratory-toast.gif" width="480" alt="A celebratory toast" />
+  <img src="assets/celebratory-toast.gif" width="480" height="270" alt="A celebratory toast" />
 </p>
 
 <h3 align="center">🎧 On Repeat</h3>
 
 <p align="center">
   <a href="https://open.spotify.com/user/jalo3z89l88x86q9mdgruadvc">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jalo3z89l88x86q9mdgruadvc&theme=nord&count=7&width=640&unique=1&album=1" width="640" alt="Seven recently played Spotify tracks"  />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jalo3z89l88x86q9mdgruadvc&theme=nord&count=7&width=640&unique=1&album=1" width="640" height="440" alt="Seven recently played Spotify tracks"  />
   </a>
 </p>
 
