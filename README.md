@@ -70,23 +70,24 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samohiani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2&custom_title=Languages%F0%9F%AB%A1" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=samohiani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1&custom_title=Stats(locally)%F0%9F%91%80" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=samohiani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2&custom_title=Languages%F0%9F%AB%A1" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=samohiani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1&custom_title=Stats(locally)%F0%9F%91%80" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=samohiani&locale=en&mode=weekly&theme=blue-green&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=samohiani&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samohiani&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=CONTRIBUTION%20GRAPH%F0%9F%A4%B2%F0%9F%8F%BE" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy-unserori.vercel.app?username=samohiani&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samohiani&theme=github_dark" height="200" alt="GitHub contribution summary"  />
 </div>
 
 ###
 
-<img align="left" height="2500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q1ZWpkZG92dmU1eG5nMnd5N2ViaXEzN3Z4Y3Vob25saHZodTJrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BPJmthQ3YRwD6QqcVD/giphy.gif"  />
+<img height="280" alt="A celebratory toast" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q1ZWpkZG92dmU1eG5nMnd5N2ViaXEzN3Z4Y3Vob25saHZodTJrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BPJmthQ3YRwD6QqcVD/giphy.gif"  />
 
 ###
 
 <div align="right">
   <a href="https://open.spotify.com/user/jalo3z89l88x86q9mdgruadvc">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jalo3z89l88x86q9mdgruadvc&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jalo3z89l88x86q9mdgruadvc&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
+
