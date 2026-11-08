@@ -5,10 +5,6 @@
   I build backend APIs with Node.js, Express, TypeScript, and PostgreSQL.<br>
   My projects span approval workflows, authentication, and database-backed applications.
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-ohiani/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:ohianisammy2005@gmail.com">Email me</a>
-</p>
 
 ---
 
