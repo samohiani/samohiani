@@ -85,7 +85,7 @@
 
 <div align="right">
   <a href="https://open.spotify.com/user/jalo3z89l88x86q9mdgruadvc">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jalo3z89l88x86q9mdgruadvc&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jalo3z89l88x86q9mdgruadvc&theme=nord&count=7&width=640&unique=1&album=1" alt="Spotify recently played"  />
   </a>
 </div>
 
